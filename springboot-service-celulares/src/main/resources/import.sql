@@ -1,0 +1,11 @@
+INSERT INTO celulares (name, marca, created_at) VALUES ('Samsung'. 'S21', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('iPhone', 'Apple', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Xperia', 'Sony', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Pixel', 'Google', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Redmi Note', 'Xiaomi', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('OnePlus 9', 'OnePlus', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Moto G', 'Motorola', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Galaxy Z Fold', 'Samsung', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Mi 11', 'Xiaomi', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('P40', 'Huawei', NOW());
+INSERT INTO celulares (name, marca, created_at) VALUES ('Nord N10', 'OnePlus', NOW());
