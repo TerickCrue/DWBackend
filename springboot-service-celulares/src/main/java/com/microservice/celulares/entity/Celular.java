@@ -57,11 +57,11 @@ public class Celular implements Serializable {
 		this.marca = marca;
 	}
 
-	public Date getCreateAt() {
+	public Date getCreatedAt() {
 		return createdAt;
 	}
 
-	public void setCreateAt(Date createAt) {
+	public void setCreatedAt(Date createAt) {
 		this.createdAt = createAt;
 	}
 	
